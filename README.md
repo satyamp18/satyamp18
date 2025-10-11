@@ -19,7 +19,7 @@ Software Developer passionate about creating efficient and scalable solutions. I
 
 ### 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-satyamp18-black?style=flat&logo=github)](https://github.com/satyamp18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satyam-pandey-94b4032a6-blue?style=flat&logo=linkedin)](www.linkedin.com/in/satyam-pandey-94b4032a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-pandey-94b4032a6)
 
 ### ⚡ Fun fact
 I enjoy problem-solving and turning complex challenges into simple solutions!
