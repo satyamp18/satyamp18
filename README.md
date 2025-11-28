@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Satyam
 
 ## About Me
-Software Developer passionate about creating efficient and scalable solutions. I love to explore new technologies and contribute to open-source projects.
+Software Developer passionate about creating efficient, scalable solutions and also learning AI-ML. I love to explore new technologies and contribute to open-source projects.
 
 ### 🔭 What I'm Working On
 - Currently working on personal development projects
@@ -11,7 +11,8 @@ Software Developer passionate about creating efficient and scalable solutions. I
 ### 🌱 Skills
 - Languages: 
   - Frontend: HTML, CSS, JavaScript
-  - Backend: Python, Java
+  - Backend: Python
+  - DSA: Java
 - Frameworks & Tools:
   - Git & GitHub
   - VS Code
