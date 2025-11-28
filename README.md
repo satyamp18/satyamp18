@@ -1,17 +1,19 @@
-# Hi there! 👋 I'm Satyam
+# Hi there! 👋 I'm Satyam Pandey
 
 ## About Me
-Software Developer passionate about creating efficient, scalable solutions and also learning AI-ML. I love to explore new technologies and contribute to open-source projects.
+I'm a Software Developer passionate about creating efficient, scalable solutions and also learning AI-ML. I love to explore new technologies and contribute to open-source projects.
 
 ### 🔭 What I'm Working On
-- Currently working on personal development projects
-- Contributing to open-source communities
-- Learning and growing in the tech world
+- Currently working on personal development projects,
+- Also learning about Artificial intelligence-machine Learning tools and techniques,
+- Contributing to open-source communities,
+- Learning and growing in the tech world.
 
 ### 🌱 Skills
 - Languages: 
-  - Frontend: HTML, CSS, JavaScript
-  - Backend: Python
+  - Frontend: HTML, CSS, JavaScript ,Reactjs
+  - Backend: Python ,Django(Framework)
+  - Database: MySQL
   - DSA: Java
 - Frameworks & Tools:
   - Git & GitHub
