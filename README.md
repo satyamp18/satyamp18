@@ -2,7 +2,7 @@
 
 # Satyam Pandey
 
-**Software Developer | Backend Developer | AI & LLM Engineering | Final-Year B.Tech CSE (2027)**
+**Software Developer | AI & LLM Engineering | Final-Year B.Tech CSE (2027)**
 
 [![Email](https://img.shields.io/badge/Email-satyampandey200317%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satyampandey200317@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Pandey-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pandey-94b4032a6)
